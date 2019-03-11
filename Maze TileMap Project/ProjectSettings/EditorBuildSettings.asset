@@ -8,7 +8,10 @@ EditorBuildSettings:
   - enabled: 0
     path: 
     guid: 00000000000000000000000000000000
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Maze TileMap.unity
     guid: e09c01540b221294198fdd9a3b883d3b
+  - enabled: 1
+    path: Assets/Scenes/Maze TileMap challenge.unity
+    guid: fb04386909ce5ca4b84c2aca5a9e4340
   m_configObjects: {}

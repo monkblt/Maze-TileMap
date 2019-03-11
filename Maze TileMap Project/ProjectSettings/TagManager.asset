@@ -5,6 +5,7 @@ TagManager:
   serializedVersion: 2
   tags:
   - Ground
+  - Pickup
   layers:
   - Default
   - TransparentFX
@@ -44,6 +45,12 @@ TagManager:
     locked: 0
   - name: Sky
     uniqueID: 2800282773
+    locked: 0
+  - name: Pickups
+    uniqueID: 2315139363
+    locked: 0
+  - name: Platforms
+    uniqueID: 772967835
     locked: 0
   - name: Ground
     uniqueID: 1766885245

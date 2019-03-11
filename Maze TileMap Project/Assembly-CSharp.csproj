@@ -61,6 +61,7 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Assets\Scripts\PlayerController.cs" />
+    <Compile Include="Assets\Scripts\Rotator.cs" />
     <Reference Include="Unity.TextMeshPro.Editor">
       <HintPath>D:/Unity Projects/Maze/Maze-TileMap/Maze TileMap Project/Library/ScriptAssemblies/Unity.TextMeshPro.Editor.dll</HintPath>
     </Reference>
